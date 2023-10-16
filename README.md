@@ -1,3 +1,4 @@
+<img src="https://blog.hrflow.ai/content/images/2020/04/Full-Stack-Developer.jpg">
 <h1 align="center">Hi 👋, I'm Malik Nimrah Farhan</h1>
 <h3 align="center">A passionate Full Stack developer from PAKISTAN</h3>
 
